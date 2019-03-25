@@ -1,4 +1,4 @@
-# coutries-states
+# countries-states
 An array of the world's countries, complete with full TypeScript declaration support.
 
 ## Installation
@@ -7,10 +7,10 @@ Install from the NPM registry with NPM itself, or with [Yarn](https://github.com
 
 ```sh
 # NPM:
-npm install coutries-states
+npm install countries-states
 
 # or Yarn:
-yarn add coutries-states
+yarn add countries-states
 ```
 
 ## Importing
@@ -19,7 +19,7 @@ You can import the package with ES6-style imports, or through Node's require:
 
 ```js
 //ES6-style import
-import { countries, regions } from "coutries-states";
+import { countries, regions } from "countries-states";
 
 //Require
 const countries = require("typed-countries").countries;
